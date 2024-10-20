@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div {
+    padding:10px;
+    height: 500px;
+    width: 420px;
+    background: #85a7e0;
+    border-radius: 10px;
+    font-size: x-large;
+}
